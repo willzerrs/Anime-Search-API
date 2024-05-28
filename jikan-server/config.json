@@ -1,0 +1,7 @@
+{
+    "cluster": "cluster-uri",
+    "db_name": "db-name",
+    "appName": "project-name",
+    "username": "db-username",
+    "password": "db-password"
+}

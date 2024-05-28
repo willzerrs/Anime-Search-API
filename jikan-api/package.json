@@ -1,0 +1,14 @@
+{
+  "name": "jikan-api",
+  "version": "1.0.0",
+  "description": "a module to interact with the jikan api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Leung",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^7.1.1"
+  }
+}
